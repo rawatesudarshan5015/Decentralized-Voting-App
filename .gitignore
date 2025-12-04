@@ -1,6 +1,10 @@
 # Node.js dependencies
 node_modules/
 
+artifacts/
+cache/
+.env
+
 # Next.js build output
 .next/
 out/
